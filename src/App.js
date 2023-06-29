@@ -3,7 +3,7 @@ import Video from './Video';
 import "/App.css";
 
 const App = () => {
-  const apiKey = 'AIzaSyAs0hK4QkCy4CW77rdUcU-zwVej3Z2HqSg';
+  const apiKey = 'YOUR-API-KEY';
 
   return (
     <div>
